@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(6, 219, 242);
+    margin-left: 200px;
+    color: rgb(10, 5, 139);
+ }
+ ul{
+     position: absolute;
+     left: 0px;
+     list-style-type: none;
+ }
+ li {
+     background-color: rgb(255, 255, 255);
+     color: rgb(37, 26, 198);
+     margin-bottom: 10px;
+     padding: 7px;
+     border-right: 14px solid rgb(32, 10, 181);
+ }
+ .clases_color{
+    color: greenyellow;
+ }
+ #id1{
+    color: rgb(170, 12, 164);
+ }
+ .btn_enviar{
+    color: blue;
+    background-color: chartreuse;
+ }
+ .btn_resetear{
+    color:blue;
+    background: linear-gradient(to right, blue, yellow);
+ }
+ .btn{
+    padding: 7px;
+    border-radius: 10px;
+    border: 0px;
+ }
+ input{
+    border-radius: 20px;
+    padding: 7px;
+ }
